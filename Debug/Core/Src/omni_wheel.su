@@ -1,0 +1,6 @@
+omni_wheel.c:5:7:wheel2	32	static
+omni_wheel.c:9:7:wheel3	32	static
+omni_wheel.c:13:7:wheel4	32	static
+omni_wheel.c:17:7:wheel1	32	static
+omni_wheel.c:21:7:Motors_RPS	32	static
+omni_wheel.c:54:10:encoder	16	static

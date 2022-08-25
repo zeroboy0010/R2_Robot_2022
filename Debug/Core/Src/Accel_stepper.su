@@ -1,0 +1,4 @@
+Accel_stepper.c:23:6:Accel_Stepper_SetPin	24	static
+Accel_stepper.c:36:6:Accel_Stepper_SetTimer	16	static
+Accel_stepper.c:43:6:Accel_Stepper_TIMIT_Handler	16	static
+Accel_stepper.c:156:6:Accel_Stepper_Move	48	static
